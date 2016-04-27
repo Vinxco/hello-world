@@ -9,4 +9,4 @@ Vale, estoy en una subcarpeta, esto que coño cambiará??
 
 
 
-Joder que puto asco de sincornización y de mierdas. Ni intuitivo no poutas pollas
+Joder que puto asco de sincornización y de mierdas. Ni intuitivo no putas pollas
