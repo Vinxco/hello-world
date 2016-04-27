@@ -13,3 +13,5 @@ Joder que puto asco de sincornización y de mierdas. Ni intuitivo no putas polla
 
 
 AHORA A VER CON EL ROLLO ESTE DEL SOURCE TREE
+
+Esto lo modifico desde el Edge Code , y es subcarpeta. Así que estará en el branch
