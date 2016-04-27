@@ -10,3 +10,6 @@ Vale, estoy en una subcarpeta, esto que coño cambiará??
 
 
 Joder que puto asco de sincornización y de mierdas. Ni intuitivo no putas pollas
+
+
+AHORA A VER CON EL ROLLO ESTE DEL SOURCE TREE
