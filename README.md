@@ -6,3 +6,7 @@ RECUERDA:
 On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made.
 
 Vale, estoy en una subcarpeta, esto que coño cambiará??
+
+
+
+Joder que puto asco de sincornización y de mierdas. Ni intuitivo no poutas pollas
