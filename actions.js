@@ -1,1 +1,0 @@
-console.log('pues a ver si borramos lo escrito')
